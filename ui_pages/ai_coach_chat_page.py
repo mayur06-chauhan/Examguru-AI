@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 
+
 def render_ai_coach_chat(study_sage_executor):
     # 🎓 Main Header at Top
     st.markdown("<h1 style='margin-bottom: -0.2rem;'>🎓 ExamGuru AI</h1>", unsafe_allow_html=True)
@@ -90,10 +91,13 @@ def render_ai_coach_chat(study_sage_executor):
 
         # UI Tabs for better view
         tab1, tab2, tab3 = st.tabs(["📅 Overview", "📋 Table", "🛠 Raw JSON"])
+
         with tab1:
-            st.subheader("Plan Overview (First 7 Days)")
-            max_days_to_show = 7
-            for day in days[:max_days_to_show]:
+            # 🔹 Show ALL days and correct count
+            total_days = len(days)
+            st.subheader(f"Plan Overview ({total_days} Days)")
+
+            for day in days:  # no slicing here → all days
                 date_str = day.get("date", "Unknown date")
                 tasks = day.get("tasks", [])
 
@@ -109,6 +113,7 @@ def render_ai_coach_chat(study_sage_executor):
         with tab2:
             st.subheader("Compact table (first 20 blocks)")
             rows = []
+            # still limiting table to first ~7 days for compactness; adjust if you want
             for day in days[:7]:
                 for idx, task in enumerate(day.get("tasks", []), start=1):
                     rows.append({
