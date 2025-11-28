@@ -61,7 +61,7 @@ def render_progress_page(plan_store, progress_store):
                 note += " 📌 Extra review added for weak topic."
 
             st.success(note)
-            st.experimental_rerun()
+            st.rerun()
 
     with tab_history:
         st.markdown("---")

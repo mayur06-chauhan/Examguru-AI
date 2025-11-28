@@ -1,14 +1,19 @@
 import json
 from datetime import date, timedelta
+
 import streamlit as st
 import pandas as pd
+
 from study_plan_utils import parse_syllabus_simple, build_study_plan
 from storage_utils import PLAN_FILE, save_json
+
 
 def render_planner(plan_store):
     st.markdown("## 🗓 Planner")
     st.caption("Paste your syllabus or upload a text file — I’ll generate a structured plan based on the time available.")
+
     tab_create, tab_current = st.tabs(["🧩 Create / Update Plan", "📋 Current Plan"])
+
     with tab_create:
         # Input Card
         with st.container():
@@ -89,7 +94,8 @@ def render_planner(plan_store):
                     )
                     save_json(PLAN_FILE, plan)
                     st.success("🎯 Study plan created successfully!")
-                    st.experimental_rerun()
+                    st.rerun()  # <-- updated here
+
         else:
             st.info("Paste your syllabus or upload a .txt file to start planning.")
 

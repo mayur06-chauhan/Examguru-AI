@@ -1,0 +1,511 @@
+{
+  "plan": [
+    {
+      "date": "2025-11-28",
+      "tasks": [
+        {
+          "pomodoro_minutes": 30,
+          "topic": "Intro to AI",
+          "activity": "Focused study on Intro to AI \u2014 active reading + worked examples",
+          "break_minutes": 5
+        },
+        {
+          "pomodoro_minutes": 30,
+          "topic": "ML Basics",
+          "activity": "Focused study on ML Basics \u2014 active reading + worked examples",
+          "break_minutes": 5
+        },
+        {
+          "pomodoro_minutes": 30,
+          "topic": "Neural Networks",
+          "activity": "Focused study on Neural Networks \u2014 active reading + worked examples",
+          "break_minutes": 5
+        },
+        {
+          "pomodoro_minutes": 30,
+          "topic": "Optimization",
+          "activity": "Focused study on Optimization \u2014 active reading + worked examples",
+          "break_minutes": 5
+        },
+        {
+          "pomodoro_minutes": 30,
+          "topic": "Projects & Practice",
+          "activity": "Focused study on Projects & Practice \u2014 active reading + worked examples",
+          "break_minutes": 5
+        }
+      ],
+      "review": "Spend 15 min reviewing previously studied topics (flashcards / quick recall)"
+    },
+    {
+      "date": "2025-11-29",
+      "tasks": [
+        {
+          "pomodoro_minutes": 30,
+          "topic": "Intro to AI",
+          "activity": "Focused study on Intro to AI \u2014 active reading + worked examples",
+          "break_minutes": 5
+        },
+        {
+          "pomodoro_minutes": 30,
+          "topic": "ML Basics",
+          "activity": "Focused study on ML Basics \u2014 active reading + worked examples",
+          "break_minutes": 5
+        },
+        {
+          "pomodoro_minutes": 30,
+          "topic": "Neural Networks",
+          "activity": "Focused study on Neural Networks \u2014 active reading + worked examples",
+          "break_minutes": 5
+        },
+        {
+          "pomodoro_minutes": 30,
+          "topic": "Optimization",
+          "activity": "Focused study on Optimization \u2014 active reading + worked examples",
+          "break_minutes": 5
+        },
+        {
+          "pomodoro_minutes": 30,
+          "topic": "Projects & Practice",
+          "activity": "Focused study on Projects & Practice \u2014 active reading + worked examples",
+          "break_minutes": 5
+        }
+      ],
+      "review": "Spend 15 min reviewing previously studied topics (flashcards / quick recall)"
+    },
+    {
+      "date": "2025-11-30",
+      "tasks": [
+        {
+          "pomodoro_minutes": 30,
+          "topic": "Intro to AI",
+          "activity": "Focused study on Intro to AI \u2014 active reading + worked examples",
+          "break_minutes": 5
+        },
+        {
+          "pomodoro_minutes": 30,
+          "topic": "ML Basics",
+          "activity": "Focused study on ML Basics \u2014 active reading + worked examples",
+          "break_minutes": 5
+        },
+        {
+          "pomodoro_minutes": 30,
+          "topic": "Neural Networks",
+          "activity": "Focused study on Neural Networks \u2014 active reading + worked examples",
+          "break_minutes": 5
+        },
+        {
+          "pomodoro_minutes": 30,
+          "topic": "Optimization",
+          "activity": "Focused study on Optimization \u2014 active reading + worked examples",
+          "break_minutes": 5
+        },
+        {
+          "pomodoro_minutes": 30,
+          "topic": "Projects & Practice",
+          "activity": "Focused study on Projects & Practice \u2014 active reading + worked examples",
+          "break_minutes": 5
+        }
+      ],
+      "review": "Spend 15 min reviewing previously studied topics (flashcards / quick recall)"
+    },
+    {
+      "date": "2025-12-01",
+      "tasks": [
+        {
+          "pomodoro_minutes": 30,
+          "topic": "Intro to AI",
+          "activity": "Focused study on Intro to AI \u2014 active reading + worked examples",
+          "break_minutes": 5
+        },
+        {
+          "pomodoro_minutes": 30,
+          "topic": "ML Basics",
+          "activity": "Focused study on ML Basics \u2014 active reading + worked examples",
+          "break_minutes": 5
+        },
+        {
+          "pomodoro_minutes": 30,
+          "topic": "Neural Networks",
+          "activity": "Focused study on Neural Networks \u2014 active reading + worked examples",
+          "break_minutes": 5
+        },
+        {
+          "pomodoro_minutes": 30,
+          "topic": "Optimization",
+          "activity": "Focused study on Optimization \u2014 active reading + worked examples",
+          "break_minutes": 5
+        },
+        {
+          "pomodoro_minutes": 30,
+          "topic": "Projects & Practice",
+          "activity": "Focused study on Projects & Practice \u2014 active reading + worked examples",
+          "break_minutes": 5
+        }
+      ],
+      "review": "Spend 15 min reviewing previously studied topics (flashcards / quick recall)"
+    },
+    {
+      "date": "2025-12-02",
+      "tasks": [
+        {
+          "pomodoro_minutes": 30,
+          "topic": "Intro to AI",
+          "activity": "Focused study on Intro to AI \u2014 active reading + worked examples",
+          "break_minutes": 5
+        },
+        {
+          "pomodoro_minutes": 30,
+          "topic": "ML Basics",
+          "activity": "Focused study on ML Basics \u2014 active reading + worked examples",
+          "break_minutes": 5
+        },
+        {
+          "pomodoro_minutes": 30,
+          "topic": "Neural Networks",
+          "activity": "Focused study on Neural Networks \u2014 active reading + worked examples",
+          "break_minutes": 5
+        },
+        {
+          "pomodoro_minutes": 30,
+          "topic": "Optimization",
+          "activity": "Focused study on Optimization \u2014 active reading + worked examples",
+          "break_minutes": 5
+        },
+        {
+          "pomodoro_minutes": 30,
+          "topic": "Projects & Practice",
+          "activity": "Focused study on Projects & Practice \u2014 active reading + worked examples",
+          "break_minutes": 5
+        }
+      ],
+      "review": "Spend 15 min reviewing previously studied topics (flashcards / quick recall)"
+    },
+    {
+      "date": "2025-12-03",
+      "tasks": [
+        {
+          "pomodoro_minutes": 30,
+          "topic": "Intro to AI",
+          "activity": "Focused study on Intro to AI \u2014 active reading + worked examples",
+          "break_minutes": 5
+        },
+        {
+          "pomodoro_minutes": 30,
+          "topic": "ML Basics",
+          "activity": "Focused study on ML Basics \u2014 active reading + worked examples",
+          "break_minutes": 5
+        },
+        {
+          "pomodoro_minutes": 30,
+          "topic": "Neural Networks",
+          "activity": "Focused study on Neural Networks \u2014 active reading + worked examples",
+          "break_minutes": 5
+        },
+        {
+          "pomodoro_minutes": 30,
+          "topic": "Optimization",
+          "activity": "Focused study on Optimization \u2014 active reading + worked examples",
+          "break_minutes": 5
+        },
+        {
+          "pomodoro_minutes": 30,
+          "topic": "Projects & Practice",
+          "activity": "Focused study on Projects & Practice \u2014 active reading + worked examples",
+          "break_minutes": 5
+        }
+      ],
+      "review": "Spend 15 min reviewing previously studied topics (flashcards / quick recall)"
+    },
+    {
+      "date": "2025-12-04",
+      "tasks": [
+        {
+          "pomodoro_minutes": 30,
+          "topic": "Intro to AI",
+          "activity": "Focused study on Intro to AI \u2014 active reading + worked examples",
+          "break_minutes": 5
+        },
+        {
+          "pomodoro_minutes": 30,
+          "topic": "ML Basics",
+          "activity": "Focused study on ML Basics \u2014 active reading + worked examples",
+          "break_minutes": 5
+        },
+        {
+          "pomodoro_minutes": 30,
+          "topic": "Neural Networks",
+          "activity": "Focused study on Neural Networks \u2014 active reading + worked examples",
+          "break_minutes": 5
+        },
+        {
+          "pomodoro_minutes": 30,
+          "topic": "Optimization",
+          "activity": "Focused study on Optimization \u2014 active reading + worked examples",
+          "break_minutes": 5
+        },
+        {
+          "pomodoro_minutes": 30,
+          "topic": "Projects & Practice",
+          "activity": "Focused study on Projects & Practice \u2014 active reading + worked examples",
+          "break_minutes": 5
+        }
+      ],
+      "review": "Spend 15 min reviewing previously studied topics (flashcards / quick recall)"
+    },
+    {
+      "date": "2025-12-05",
+      "tasks": [
+        {
+          "pomodoro_minutes": 30,
+          "topic": "Intro to AI",
+          "activity": "Focused study on Intro to AI \u2014 active reading + worked examples",
+          "break_minutes": 5
+        },
+        {
+          "pomodoro_minutes": 30,
+          "topic": "ML Basics",
+          "activity": "Focused study on ML Basics \u2014 active reading + worked examples",
+          "break_minutes": 5
+        },
+        {
+          "pomodoro_minutes": 30,
+          "topic": "Neural Networks",
+          "activity": "Focused study on Neural Networks \u2014 active reading + worked examples",
+          "break_minutes": 5
+        },
+        {
+          "pomodoro_minutes": 30,
+          "topic": "Optimization",
+          "activity": "Focused study on Optimization \u2014 active reading + worked examples",
+          "break_minutes": 5
+        },
+        {
+          "pomodoro_minutes": 30,
+          "topic": "Projects & Practice",
+          "activity": "Focused study on Projects & Practice \u2014 active reading + worked examples",
+          "break_minutes": 5
+        }
+      ],
+      "review": "Spend 15 min reviewing previously studied topics (flashcards / quick recall)"
+    },
+    {
+      "date": "2025-12-06",
+      "tasks": [
+        {
+          "pomodoro_minutes": 30,
+          "topic": "Intro to AI",
+          "activity": "Focused study on Intro to AI \u2014 active reading + worked examples",
+          "break_minutes": 5
+        },
+        {
+          "pomodoro_minutes": 30,
+          "topic": "ML Basics",
+          "activity": "Focused study on ML Basics \u2014 active reading + worked examples",
+          "break_minutes": 5
+        },
+        {
+          "pomodoro_minutes": 30,
+          "topic": "Neural Networks",
+          "activity": "Focused study on Neural Networks \u2014 active reading + worked examples",
+          "break_minutes": 5
+        },
+        {
+          "pomodoro_minutes": 30,
+          "topic": "Optimization",
+          "activity": "Focused study on Optimization \u2014 active reading + worked examples",
+          "break_minutes": 5
+        },
+        {
+          "pomodoro_minutes": 30,
+          "topic": "Projects & Practice",
+          "activity": "Focused study on Projects & Practice \u2014 active reading + worked examples",
+          "break_minutes": 5
+        }
+      ],
+      "review": "Spend 15 min reviewing previously studied topics (flashcards / quick recall)"
+    },
+    {
+      "date": "2025-12-07",
+      "tasks": [
+        {
+          "pomodoro_minutes": 30,
+          "topic": "Intro to AI",
+          "activity": "Focused study on Intro to AI \u2014 active reading + worked examples",
+          "break_minutes": 5
+        },
+        {
+          "pomodoro_minutes": 30,
+          "topic": "ML Basics",
+          "activity": "Focused study on ML Basics \u2014 active reading + worked examples",
+          "break_minutes": 5
+        },
+        {
+          "pomodoro_minutes": 30,
+          "topic": "Neural Networks",
+          "activity": "Focused study on Neural Networks \u2014 active reading + worked examples",
+          "break_minutes": 5
+        },
+        {
+          "pomodoro_minutes": 30,
+          "topic": "Optimization",
+          "activity": "Focused study on Optimization \u2014 active reading + worked examples",
+          "break_minutes": 5
+        },
+        {
+          "pomodoro_minutes": 30,
+          "topic": "Projects & Practice",
+          "activity": "Focused study on Projects & Practice \u2014 active reading + worked examples",
+          "break_minutes": 5
+        }
+      ],
+      "review": "Spend 15 min reviewing previously studied topics (flashcards / quick recall)"
+    },
+    {
+      "date": "2025-12-08",
+      "tasks": [
+        {
+          "pomodoro_minutes": 30,
+          "topic": "Intro to AI",
+          "activity": "Focused study on Intro to AI \u2014 active reading + worked examples",
+          "break_minutes": 5
+        },
+        {
+          "pomodoro_minutes": 30,
+          "topic": "ML Basics",
+          "activity": "Focused study on ML Basics \u2014 active reading + worked examples",
+          "break_minutes": 5
+        },
+        {
+          "pomodoro_minutes": 30,
+          "topic": "Neural Networks",
+          "activity": "Focused study on Neural Networks \u2014 active reading + worked examples",
+          "break_minutes": 5
+        },
+        {
+          "pomodoro_minutes": 30,
+          "topic": "Optimization",
+          "activity": "Focused study on Optimization \u2014 active reading + worked examples",
+          "break_minutes": 5
+        },
+        {
+          "pomodoro_minutes": 30,
+          "topic": "Projects & Practice",
+          "activity": "Focused study on Projects & Practice \u2014 active reading + worked examples",
+          "break_minutes": 5
+        }
+      ],
+      "review": "Spend 15 min reviewing previously studied topics (flashcards / quick recall)"
+    },
+    {
+      "date": "2025-12-09",
+      "tasks": [
+        {
+          "pomodoro_minutes": 30,
+          "topic": "Intro to AI",
+          "activity": "Focused study on Intro to AI \u2014 active reading + worked examples",
+          "break_minutes": 5
+        },
+        {
+          "pomodoro_minutes": 30,
+          "topic": "ML Basics",
+          "activity": "Focused study on ML Basics \u2014 active reading + worked examples",
+          "break_minutes": 5
+        },
+        {
+          "pomodoro_minutes": 30,
+          "topic": "Neural Networks",
+          "activity": "Focused study on Neural Networks \u2014 active reading + worked examples",
+          "break_minutes": 5
+        },
+        {
+          "pomodoro_minutes": 30,
+          "topic": "Optimization",
+          "activity": "Focused study on Optimization \u2014 active reading + worked examples",
+          "break_minutes": 5
+        },
+        {
+          "pomodoro_minutes": 30,
+          "topic": "Projects & Practice",
+          "activity": "Focused study on Projects & Practice \u2014 active reading + worked examples",
+          "break_minutes": 5
+        }
+      ],
+      "review": "Spend 15 min reviewing previously studied topics (flashcards / quick recall)"
+    },
+    {
+      "date": "2025-12-10",
+      "tasks": [
+        {
+          "pomodoro_minutes": 30,
+          "topic": "Intro to AI",
+          "activity": "Focused study on Intro to AI \u2014 active reading + worked examples",
+          "break_minutes": 5
+        },
+        {
+          "pomodoro_minutes": 30,
+          "topic": "ML Basics",
+          "activity": "Focused study on ML Basics \u2014 active reading + worked examples",
+          "break_minutes": 5
+        },
+        {
+          "pomodoro_minutes": 30,
+          "topic": "Neural Networks",
+          "activity": "Focused study on Neural Networks \u2014 active reading + worked examples",
+          "break_minutes": 5
+        },
+        {
+          "pomodoro_minutes": 30,
+          "topic": "Optimization",
+          "activity": "Focused study on Optimization \u2014 active reading + worked examples",
+          "break_minutes": 5
+        },
+        {
+          "pomodoro_minutes": 30,
+          "topic": "Projects & Practice",
+          "activity": "Focused study on Projects & Practice \u2014 active reading + worked examples",
+          "break_minutes": 5
+        }
+      ],
+      "review": "Spend 15 min reviewing previously studied topics (flashcards / quick recall)"
+    },
+    {
+      "date": "2025-12-11",
+      "tasks": [
+        {
+          "pomodoro_minutes": 30,
+          "topic": "Intro to AI",
+          "activity": "Focused study on Intro to AI \u2014 active reading + worked examples",
+          "break_minutes": 5
+        },
+        {
+          "pomodoro_minutes": 30,
+          "topic": "ML Basics",
+          "activity": "Focused study on ML Basics \u2014 active reading + worked examples",
+          "break_minutes": 5
+        },
+        {
+          "pomodoro_minutes": 30,
+          "topic": "Neural Networks",
+          "activity": "Focused study on Neural Networks \u2014 active reading + worked examples",
+          "break_minutes": 5
+        },
+        {
+          "pomodoro_minutes": 30,
+          "topic": "Optimization",
+          "activity": "Focused study on Optimization \u2014 active reading + worked examples",
+          "break_minutes": 5
+        },
+        {
+          "pomodoro_minutes": 30,
+          "topic": "Intro to AI",
+          "activity": "Focused study on Intro to AI \u2014 active reading + worked examples",
+          "break_minutes": 5
+        }
+      ],
+      "review": "Spend 15 min reviewing previously studied topics (flashcards / quick recall)"
+    }
+  ],
+  "meta": {
+    "created_at": "2025-11-28T10:01:11.275021"
+  }
+}
