@@ -111,7 +111,7 @@ def render_ai_coach_chat(study_sage_executor):
                             st.caption(task["activity"])
 
         with tab2:
-            st.subheader("Compact table (first 20 blocks)")
+            st.subheader("Compact table (first 15 blocks)")
             rows = []
             # still limiting table to first ~7 days for compactness; adjust if you want
             for day in days[:7]:
